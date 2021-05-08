@@ -1,1 +1,1 @@
-# MYPWGEN
+# MyPasswordGenerator
